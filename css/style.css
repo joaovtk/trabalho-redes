@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Roboto";
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    text-align: start;
+    width: 90vw;
+    font-size: 12pt;
+    border: 1px solid rgba(0, 0, 0, 50);
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+
+.hidden {
+    display: none;
+}
+
+button {
+    display: block;
+}
+
+button#switchMore {
+    border-radius: 10px;
+    font-size: 10pt;
+    width: 150px;
+    height: 50px;
+    margin: auto;
+}

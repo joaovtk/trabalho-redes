@@ -2,7 +2,7 @@ Será uma Single Page
 
 - [ ] Adicionar Favicon
 - [ ] Adicionar Textos (Obs: Cada um deve ter uma section e estruturado semanticamente)
-    - [ ] Switch
+    - [x] Switch
     - [ ] Hub
     - [ ] Roteador
     - [ ] Modem

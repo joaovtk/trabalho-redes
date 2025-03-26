@@ -1,0 +1,7 @@
+Switch: 
+    https://www.redcabos.com.br/switch-de-rede-gigabit-101001000-mbps-5-portas
+    https://www.juniper.net/br/pt/research-topics/what-is-a-network-switch.html
+    https://www.reddit.com/r/HomeNetworking/comments/124ixcl/updated_proposed_diagram_for_home_network_v20/?tl=pt-br&rdt=37987
+
+Hub:
+    https://pt.opticalpatchcable.com/news/a-closer-look-at-hub-switch-and-router-24304131.html	
