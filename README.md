@@ -1,20 +1,20 @@
 Será uma Single Page
 
 - [ ] Adicionar Favicon
-- [ ] Adicionar Textos (Obs: Cada um deve ter uma section e estruturado semanticamente)
+- [x] Adicionar Textos (Obs: Cada um deve ter uma section e estruturado semanticamente)
     - [x] Switch
-    - [ ] Hub
-    - [ ] Roteador
-    - [ ] Modem
-    - [ ] Repetidor
-    - [ ] Bridge (ponte)
+    - [x] Hub
+    - [x] Roteador
+    - [x] Modem
+    - [x] Repetidor
+    - [x] Bridge (ponte)
  
-- [ ] Adiciona Imagens
-    - [ ] Switch
-    - [ ] Hub
-    - [ ] Roteador
-    - [ ] Modem
-    - [ ] Repetidor
-    - [ ] Bridge (ponte)
+- [x] Adiciona Imagens
+    - [x] Switch
+    - [x] Hub
+    - [x] Roteador
+    - [x] Modem
+    - [x] Repetidor
+    - [x] Bridge (ponte)
 
 Mais Conteudo em breve
