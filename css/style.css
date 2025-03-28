@@ -29,11 +29,13 @@ button {
 }
 
 button.btn {
-    border-radius: 10px;
-    font-size: 10pt;
+    border-radius: 8px;
+    font-size: 12pt;
+    
     width: 150px;
     height: 50px;
     margin: auto;
+    border: 1px solid #000;
 }
 
 img {
