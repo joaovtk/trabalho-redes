@@ -13,3 +13,19 @@ Roteador:
     https://www.ibyte.com.br/roteador-mesh-wi-fi-ac2100-tr-069-gigabit-multi-wan-4g-lte-dir-2150/p
     https://www.edrawsoft.com/pt/article/home-network-diagram.html
     https://www.aztech.com.br/roteador-wireless-gigabit-dual-band-ac1200-tplink-ec220-g5
+
+Modem:
+    https://www.trendnet.com/langpo/products/product-detail?prod=200_TEW-635BRM
+    https://www.marketresearchintellect.com/pt/blog/top-modem-companies/
+    https://www.lucidchart.com/pages/pt/o-que-e-um-diagrama-de-rede
+
+Repetidor
+    https://www.amazon.com.br/Repetidor-Sinal-600mbps-Amplificador-Wireless/dp/B07VRTZ7PB
+    https://sgrloja.com.br/loja/sem-categoria/repetidor-sinal-wifi-xiaomi-range-extender-ac1200-ra75/
+    https://bootblockbios.wordpress.com/redes/repetidor/aumentando-o-alcance-da-rede-wireless-com-repetidores/
+
+
+Bridge 
+    https://bootblockbios.wordpress.com/redes/bridge-ou-ponte/
+    https://www.entelco.com.br/blog/o-que-e-melhor-rede-em-bridge-ou-roteada/
+    https://www.lucidchart.com/pages/pt/o-que-e-um-diagrama-de-rede
