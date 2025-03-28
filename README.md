@@ -9,7 +9,7 @@ Será uma Single Page
     - [ ] Repetidor
     - [ ] Bridge (ponte)
  
-- [ ] Adicionar Carrosel de Imagens (Isso será feito sem usar bootstrap)
+- [ ] Adiciona Imagens
     - [ ] Switch
     - [ ] Hub
     - [ ] Roteador
