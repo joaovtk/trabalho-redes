@@ -9,10 +9,11 @@
     </head>
     <body>
         <article>
+            <!-- Switch -->>
             <section>
                 <h1>Switch</h1>
                 <p>é um equipamento que permite a comunicação entre dispositivos de uma rede, como computadores, impressoras, servidores e roteadores</p>
-                <div class="hidden" id="switch">
+                <div class="hidden content">
                         
                     <h2>Funcionamento do Switch</h2>
                     <p>O switch recebe pacotes de dados enviados por um dispositivo, Ele verifica se o endereço MAC de destino é válido, Ele verifica se a informação pode ser transmitida e Ele encaminha os dados pelas portas apropriadas ao destino correto</p>
@@ -25,33 +26,108 @@
 
                     <h2>Fotos do Switch e Esquematicos</h2>
                 
-                    <img src="img/switch/Switch01.png" alt="" class="actual" />
-                    <img src="img/switch/Switch02.png" alt="" class="hidden" />
-                    <img src="img/switch/Switch03.png" alt=""  class="hidden" />
+                    <img src="img/switch/Switch01.png" alt="" />
+                    <img src="img/switch/Switch02.png" alt="" />
+                    <img src="img/switch/Switch03.png" alt="" />
                     
-                    <button id="switchLess">Exibir menos</button>
+
                 </div>
-                <button id="switchMore">Exibir Detalhes</button>
+                <button class="control btn">Exibir Mais</button>
+            </section>
+           
+            <!-- Hub -->
+            <section>
+                <h1>Hub</h1>
+                <div class="hidden content">
+                    <h2>Funcionamento do Hub</h2>
+                    <p>O hub é um dispositivo simples que conecta vários dispositivos em uma rede local (LAN). Ele transmite os dados recebidos para todos os dispositivos, sem distinguir o destinatário.</p>
+
+                    <h2>Tipos de Hub</h2>
+                    <p>Hub passivo: Não possui fonte de alimentação e transmite dados sem amplificação.</p>
+                    <p>Hub ativo: Possui amplificação de sinal e pode regenerar o sinal antes de transmiti-lo.</p>
+                    <p>Hub inteligente: Permite a monitorização e configurações avançadas, mas ainda é limitado em comparação com um switch.</p>
+
+                    <img src="img/switch/Switch01.png" alt="" />
+                    <img src="img/switch/Switch02.png" alt="" />
+                    <img src="img/switch/Switch03.png" alt="" />
+                </div>
+                
+                <button class="control btn">Exibir Mais</button>
             </section>
 
+            <!-- Roteador -->
             <section>
-                <h2>Hub</h2>
+                <h1>Roteador</h1>
+                <div class="hidden content">
+                    <h2>Funcionamento do Roteador</h2>
+                    <p>O roteador é um dispositivo que conecta diferentes redes, como uma LAN à internet, e gerencia o tráfego de dados entre elas. Ele utiliza endereços IP para encaminhar pacotes de dados.</p>
+
+                    <h2>Funções do Roteador</h2>
+                    <p>Encaminhamento de pacotes entre diferentes redes.</p>
+                    <p>Definição de regras de firewall para segurança da rede.</p>
+                    <p>Distribuição de endereços IP para dispositivos na rede local (via DHCP).</p>
+
+                    <img src="img/switch/Switch01.png" alt="" />
+                    <img src="img/switch/Switch02.png" alt="" />
+                    <img src="img/switch/Switch03.png" alt="" />
+                </div>
+                <button class="control btn">Exibir Mais</button>
             </section>
 
+            <!-- Modem -->
             <section>
-                <h2>Roteador</h2>
+                <h1>Modem</h1>
+                <div class="hidden content">
+                    <h2>Funcionamento do Modem</h2>
+                    <p>O modem (modulador-demodulador) é responsável por converter os sinais digitais dos dispositivos em sinais analógicos que podem ser transmitidos através de linhas telefônicas ou coaxiais, e vice-versa.</p>
+
+                    <h2>Tipos de Modem</h2>
+                    <p>Modem ADSL: Conecta-se à linha telefônica e oferece acesso à internet via par metálico.</p>
+                    <p>Modem a cabo: Conecta-se a uma rede de TV a cabo para fornecer acesso à internet.</p>
+                    <p>Modem fibra óptica: Utiliza a fibra óptica para oferecer altas velocidades de conexão à internet.</p>
+
+                    <img src="img/switch/Switch01.png" alt="" />
+                    <img src="img/switch/Switch02.png" alt="" />
+                    <img src="img/switch/Switch03.png" alt="" />
+                </div>
+                <button class="control btn">Exibir Mais</button>
             </section>
 
+            <!-- Repetidor -->
             <section>
-                <h2>Modem</h2>
+                <h1>Repetidor</h1>
+                <div class="hidden content">
+                    <h2>Funcionamento do Repetidor</h2>
+                    <p>O repetidor é um dispositivo que amplifica o sinal de rede, estendendo o alcance da conexão entre dispositivos. Ele é útil para superar limitações de distância ou obstáculos na rede.</p>
+
+                    <h2>Função do Repetidor</h2>
+                    <p>Reforça o sinal da rede para permitir que os dados cheguem a distâncias maiores.</p>
+                    <p>Pode ser usado tanto em redes Wi-Fi quanto em redes cabeadas.</p>
+
+                    <img src="img/switch/Switch01.png" alt="" />
+                    <img src="img/switch/Switch02.png" alt="" />
+                    <img src="img/switch/Switch03.png" alt="" />
+                </div>
+                <button class="control btn">Exibir Mais</button>
             </section>
 
+            <!-- Bridge (Ponte) -->
             <section>
-                <h2>Repetidor</h2>
-            </section>
+                <h1>Bridge</h1>
+                <div class="hidden content">
+                    <h2>Funcionamento da Bridge (Ponte)</h2>
+                    <p>A bridge é um dispositivo que conecta duas ou mais redes locais, funcionando como um filtro entre elas para garantir que apenas os dados relevantes sejam transmitidos entre as redes.</p>
 
-            <section>
-                <h2>Bridge</h2>
+                    <h2>Funções da Bridge</h2>
+                    <p>Reduz a colisão de pacotes ao dividir grandes redes em segmentos menores.</p>
+                    <p>Aumenta a eficiência da rede ao filtrar pacotes desnecessários entre diferentes segmentos.</p>
+                    <p>Conecta redes com diferentes tecnologias, como Ethernet e Wi-Fi.</p>
+
+                    <img src="img/switch/Switch01.png" alt="" />
+                    <img src="img/switch/Switch02.png" alt="" />
+                    <img src="img/switch/Switch03.png" alt="" />
+                </div>
+                <button class="control btn">Exibir Mais</button>
             </section>
         </article>
         <script src="scripts/temp.js"></script>

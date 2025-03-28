@@ -4,4 +4,12 @@ Switch:
     https://www.reddit.com/r/HomeNetworking/comments/124ixcl/updated_proposed_diagram_for_home_network_v20/?tl=pt-br&rdt=37987
 
 Hub:
-    https://pt.opticalpatchcable.com/news/a-closer-look-at-hub-switch-and-router-24304131.html	
+    https://pt.opticalpatchcable.com/news/a-closer-look-at-hub-switch-and-router-24304131.html
+    https://www.techtudo.com.br/noticias/2013/05/entenda-diferenca-entre-hub-switch-roteador-e-modem.ghtml
+    https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/hub-spoke-network-topology
+
+
+Roteador:
+    https://www.ibyte.com.br/roteador-mesh-wi-fi-ac2100-tr-069-gigabit-multi-wan-4g-lte-dir-2150/p
+    https://www.edrawsoft.com/pt/article/home-network-diagram.html
+    https://www.aztech.com.br/roteador-wireless-gigabit-dual-band-ac1200-tplink-ec220-g5
